@@ -3,4 +3,4 @@
 - CSS 3
 - JQuery
 
-Can you view [my website](https://daria15f.github.io/portfoiio/)
+Can you view [my website](https://github.com/daria15f/portfoiio)
